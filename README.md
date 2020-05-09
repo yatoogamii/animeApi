@@ -6,5 +6,3 @@ database filled by [animeScraping](https://github.com/yatoogamii/animeScraping)
 ## Stack
 
 - Fastify
-- Mongo
-- Postgresql
