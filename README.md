@@ -1,4 +1,5 @@
 # Anime API
 
-create MyAnimeList API used into [animeFront](https://github.com/yatoogamii/animeFront)
+create [MyAnimeList](https://myanimelist.net/) API used into [animeFront](https://github.com/yatoogamii/animeFront)  
+database filled by [animeScraping](https://github.com/yatoogamii/animeScraping)
 
