@@ -5,6 +5,6 @@ database filled by [animeScraping](https://github.com/yatoogamii/animeScraping)
 
 ## Stack
 
-- Express
+- Fastify
 - Mongo
 - Postgresql
